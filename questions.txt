@@ -1,0 +1,59 @@
+What is your favorite programming language?
+a) Python
+b) Java
+c) JavaScript
+d) C#
+
+Which is your preferred mobile operating system?
+a) Android
+b) iOS
+c) Windows Phone
+d) Other
+
+What is your favorite genre of music?
+a) Pop
+b) Rock
+c) Hip Hop
+d) Classical
+
+Which is your favorite social media platform?
+a) Facebook
+b) Instagram
+c) Twitter
+d) Snapchat
+
+What is your preferred method of transportation?
+a) Car
+b) Bicycle
+c) Public transportation
+d) Walking
+
+Which is your favorite season of the year?
+a) Spring
+b) Summer
+c) Autumn/Fall
+d) Winter
+
+What type of movies do you enjoy the most?
+a) Action
+b) Comedy
+c) Drama
+d) Sci-Fi
+
+Which is your favorite sports team?
+a) Football/Soccer
+b) Basketball
+c) Baseball
+d) Other
+
+What is your favorite dessert?
+a) Chocolate cake
+b) Ice cream
+c) Apple pie
+d) Cheesecake
+
+Which is your favorite animal?
+a) Dog
+b) Cat
+c) Elephant
+d) Dolphin
